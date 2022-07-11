@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+### 'create a .env file'
+In this add your all firebase important code
+
 In the project directory, you can run:
 
 ### `npm start`
